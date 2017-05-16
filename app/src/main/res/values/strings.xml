@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FlipPad App</string>
+    <string name="appName">FlipPad App</string>
+    <string name="version">V.1.0.0</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_forgot_password">Forgot password</string>
+    <string name="btn_link_to_register">Create an account</string>
+    <string name="email">Email</string>
+    <string name="btn_link_to_login">Login</string>
+    <string name="action_sign_in_short">Do you have an account?</string>
+    <string name="lbl_forgot_password">Forgot Password?</string>
+    <string name="forgot_password_msg">Password</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back">Back</string>
+</resources>
