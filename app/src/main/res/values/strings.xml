@@ -12,4 +12,8 @@
     <string name="forgot_password_msg">Password</string>
     <string name="btn_reset_password">Reset Password</string>
     <string name="btn_back">Back</string>
+    <string name="hint_email">hashilekky@gmail.com</string>
+    <string name="hint_password">oluwaleke</string>
+    <string name="action_settings">Settings</string>
+    <string name="share_blog">share</string>
 </resources>
